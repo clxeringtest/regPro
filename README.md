@@ -1,4 +1,4 @@
 # regPro
 test
 
-clxeringlab添加
+clxeringlab添加！
